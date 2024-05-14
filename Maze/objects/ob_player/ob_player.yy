@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sp_ph_player",
+    "path":"sprites/sp_ph_player/sp_ph_player.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
