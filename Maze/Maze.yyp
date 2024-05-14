@@ -37,6 +37,7 @@
   "resources":[
     {"id":{"name":"ob_player","path":"objects/ob_player/ob_player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"sp_ph_enemy","path":"sprites/sp_ph_enemy/sp_ph_enemy.yy",},},
     {"id":{"name":"sp_ph_player","path":"sprites/sp_ph_player/sp_ph_player.yy",},},
   ],
   "resourceType":"GMProject",
