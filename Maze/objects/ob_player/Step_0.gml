@@ -50,12 +50,12 @@ else
 }
 
 
-if (place_meeting(x + x_speed, y, obj_wall))
+if (place_meeting(x + x_speed, y, ob_wall))
 {
 	x_speed = 0;
 }
 
-if (place_meeting(x, y + y_speed, obj_wall))
+if (place_meeting(x, y + y_speed, ob_wall))
 {
 	y_speed = 0;
 }

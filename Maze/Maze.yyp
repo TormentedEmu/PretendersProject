@@ -35,8 +35,10 @@
   },
   "name":"Maze",
   "resources":[
-    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
-    {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
+    {"id":{"name":"ob_enemy_horizontal","path":"objects/ob_enemy_horizontal/ob_enemy_horizontal.yy",},},
+    {"id":{"name":"ob_enemy_parent","path":"objects/ob_enemy_parent/ob_enemy_parent.yy",},},
+    {"id":{"name":"ob_player","path":"objects/ob_player/ob_player.yy",},},
+    {"id":{"name":"ob_wall","path":"objects/ob_wall/ob_wall.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"script_macros","path":"scripts/script_macros/script_macros.yy",},},
     {"id":{"name":"spr_background_tiles","path":"sprites/spr_background_tiles/spr_background_tiles.yy",},},
