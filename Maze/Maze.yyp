@@ -33,7 +33,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.4.1.152",
   },
   "name":"Maze",
   "resources":[
@@ -45,9 +45,11 @@
     {"id":{"name":"ob_wall","path":"objects/ob_wall/ob_wall.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"id":{"name":"helper_functions","path":"scripts/helper_functions/helper_functions.yy",},},
     {"id":{"name":"script_macros","path":"scripts/script_macros/script_macros.yy",},},
-    {"id":{"name":"sp_anenome","path":"sprites/sp_anenome/sp_anenome.yy",},},
+    {"id":{"name":"sp_anemone","path":"sprites/sp_anemone/sp_anemone.yy",},},
     {"id":{"name":"sp_coin","path":"sprites/sp_coin/sp_coin.yy",},},
     {"id":{"name":"sp_crab_enemy","path":"sprites/sp_crab_enemy/sp_crab_enemy.yy",},},
     {"id":{"name":"sp_jellyfish_enemy_1","path":"sprites/sp_jellyfish_enemy_1/sp_jellyfish_enemy_1.yy",},},
@@ -71,6 +73,8 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

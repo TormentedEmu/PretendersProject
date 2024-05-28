@@ -2,9 +2,9 @@
 
 player_health -= 1 //Player will lose 1 health each time they hit an enemy
 
-if(player_health = 0) //If Player health reaches zero, the game will restart
+if(player_health = 0) //If Player health reaches zero, the current level will restart
 {
-	game_restart()
+	room_restart()
 }
 
 instance_destroy(other) //Destroy Enemy that Player collided with
