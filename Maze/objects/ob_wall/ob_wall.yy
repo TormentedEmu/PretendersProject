@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_ph_wall",
-    "path":"sprites/spr_ph_wall/spr_ph_wall.yy",
+    "name":"sp_ph_wall",
+    "path":"sprites/sp_ph_wall/sp_ph_wall.yy",
   },
   "spriteMaskId":null,
   "visible":false,

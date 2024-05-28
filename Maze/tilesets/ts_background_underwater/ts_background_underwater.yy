@@ -20,8 +20,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_background_underwater_tiles",
-    "path":"sprites/spr_background_underwater_tiles/spr_background_underwater_tiles.yy",
+    "name":"sp_background_underwater_tiles",
+    "path":"sprites/sp_background_underwater_tiles/sp_background_underwater_tiles.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

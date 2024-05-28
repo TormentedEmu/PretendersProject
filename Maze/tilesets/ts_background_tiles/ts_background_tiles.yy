@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_background_tiles",
-    "path":"sprites/spr_background_tiles/spr_background_tiles.yy",
+    "name":"sp_ph_background_tiles",
+    "path":"sprites/sp_ph_background_tiles/sp_ph_background_tiles.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

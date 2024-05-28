@@ -13,10 +13,10 @@ key_down = 0;
 
 player_health = 4
 
-sprite[RIGHT] = spr_ph_player_right;
-sprite[UP] = spr_ph_player_up;
-sprite[LEFT] = spr_ph_player_left;
-sprite[DOWN] = spr_ph_player_down;
+sprite[RIGHT] = sp_ph_player_right;
+sprite[UP] = sp_ph_player_up;
+sprite[LEFT] = sp_ph_player_left;
+sprite[DOWN] = sp_ph_player_down;
 
 face = DOWN;
 
