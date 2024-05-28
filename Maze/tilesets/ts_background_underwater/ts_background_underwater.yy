@@ -2,7 +2,7 @@
   "$GMTileSet":"",
   "%Name":"ts_background_underwater",
   "autoTileSets":[
-    {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":false,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[45,108,107,24,87,44,88,23,86,109,46,25,66,65,67,43,],},
+    {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":false,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[45,108,107,24,87,44,90,23,86,111,46,25,66,65,67,26,],},
   ],
   "macroPageTiles":{
     "SerialiseHeight":0,
