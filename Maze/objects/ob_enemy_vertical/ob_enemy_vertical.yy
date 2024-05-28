@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"ob_enemy_horizontal",
+  "%Name":"ob_enemy_vertical",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"ob_enemy_horizontal",
+  "name":"ob_enemy_vertical",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -38,8 +38,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sp_crab_enemy",
-    "path":"sprites/sp_crab_enemy/sp_crab_enemy.yy",
+    "name":"sp_jellyfish_enemy_3",
+    "path":"sprites/sp_jellyfish_enemy_3/sp_jellyfish_enemy_3.yy",
   },
   "spriteMaskId":null,
   "visible":true,
