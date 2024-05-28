@@ -38,8 +38,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_ph_enemy",
-    "path":"sprites/spr_ph_enemy/spr_ph_enemy.yy",
+    "name":"sp_crab_enemy",
+    "path":"sprites/sp_crab_enemy/sp_crab_enemy.yy",
   },
   "spriteMaskId":null,
   "visible":true,
