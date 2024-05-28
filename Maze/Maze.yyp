@@ -44,6 +44,7 @@
     {"id":{"name":"ob_wall","path":"objects/ob_wall/ob_wall.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"helper_functions","path":"scripts/helper_functions/helper_functions.yy",},},
     {"id":{"name":"script_macros","path":"scripts/script_macros/script_macros.yy",},},
     {"id":{"name":"sp_coin","path":"sprites/sp_coin/sp_coin.yy",},},
     {"id":{"name":"sp_crab_enemy","path":"sprites/sp_crab_enemy/sp_crab_enemy.yy",},},
