@@ -1,13 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"ob_wall",
-  "eventList":[],
+  "%Name":"ob_invis_teleporter",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"ob_wall",
+  "name":"ob_invis_teleporter",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Resources",
+    "path":"folders/Objects/Resources.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sp_ph_wall",
-    "path":"sprites/sp_ph_wall/sp_ph_wall.yy",
+    "name":"sp_invis_teleporter",
+    "path":"sprites/sp_invis_teleporter/sp_invis_teleporter.yy",
   },
   "spriteMaskId":null,
   "visible":false,

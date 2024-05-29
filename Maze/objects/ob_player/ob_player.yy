@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sp_ph_player_down",
-    "path":"sprites/sp_ph_player_down/sp_ph_player_down.yy",
+    "name":"sp_ph_player_2_right",
+    "path":"sprites/sp_ph_player_2_right/sp_ph_player_2_right.yy",
   },
   "spriteMaskId":null,
   "visible":true,
