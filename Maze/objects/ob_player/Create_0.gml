@@ -9,6 +9,8 @@ key_right = 0;
 key_up = 0;
 key_down = 0;
 
+coins = 0;
+
 // built in variables
 
 player_health = 4

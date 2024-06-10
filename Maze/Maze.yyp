@@ -35,7 +35,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.4.1.152",
   },
   "name":"Maze",
   "resources":[
@@ -46,6 +46,7 @@
     {"id":{"name":"ob_invis_teleporter","path":"objects/ob_invis_teleporter/ob_invis_teleporter.yy",},},
     {"id":{"name":"ob_invis_wall_collider","path":"objects/ob_invis_wall_collider/ob_invis_wall_collider.yy",},},
     {"id":{"name":"ob_player","path":"objects/ob_player/ob_player.yy",},},
+    {"id":{"name":"ob_room_start_point","path":"objects/ob_room_start_point/ob_room_start_point.yy",},},
     {"id":{"name":"ob_wall_parent","path":"objects/ob_wall_parent/ob_wall_parent.yy",},},
     {"id":{"name":"rm_home","path":"rooms/rm_home/rm_home.yy",},},
     {"id":{"name":"rm_walkway","path":"rooms/rm_walkway/rm_walkway.yy",},},
@@ -59,6 +60,7 @@
     {"id":{"name":"sp_background_underwater_tiles","path":"sprites/sp_background_underwater_tiles/sp_background_underwater_tiles.yy",},},
     {"id":{"name":"sp_coin","path":"sprites/sp_coin/sp_coin.yy",},},
     {"id":{"name":"sp_crab_enemy","path":"sprites/sp_crab_enemy/sp_crab_enemy.yy",},},
+    {"id":{"name":"sp_invis_room_start_point","path":"sprites/sp_invis_room_start_point/sp_invis_room_start_point.yy",},},
     {"id":{"name":"sp_invis_teleporter","path":"sprites/sp_invis_teleporter/sp_invis_teleporter.yy",},},
     {"id":{"name":"sp_invis_wall_collider","path":"sprites/sp_invis_wall_collider/sp_invis_wall_collider.yy",},},
     {"id":{"name":"sp_jellyfish_enemy_1","path":"sprites/sp_jellyfish_enemy_1/sp_jellyfish_enemy_1.yy",},},
