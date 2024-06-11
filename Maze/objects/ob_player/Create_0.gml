@@ -21,4 +21,3 @@ sprite[LEFT] = sp_ph_player_2_left;
 sprite[DOWN] = sp_ph_player_2_right;
 
 face = DOWN;
-
