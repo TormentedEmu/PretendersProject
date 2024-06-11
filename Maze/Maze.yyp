@@ -50,8 +50,8 @@
     {"id":{"name":"ob_player","path":"objects/ob_player/ob_player.yy",},},
     {"id":{"name":"ob_wall_parent","path":"objects/ob_wall_parent/ob_wall_parent.yy",},},
     {"id":{"name":"rm_home","path":"rooms/rm_home/rm_home.yy",},},
+    {"id":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
     {"id":{"name":"rm_walkway","path":"rooms/rm_walkway/rm_walkway.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
@@ -87,7 +87,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_home","path":"rooms/rm_home/rm_home.yy",},},
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},

@@ -1,3 +1,3 @@
-target_x = 768;
-target_y = 572;
+target_x = 192;
+target_y = 62;
 target_room = rm_walkway;
