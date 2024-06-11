@@ -12,6 +12,7 @@ key_down = 0;
 // built in variables
 
 player_health = 4
+max_health = 4
 
 sprite[RIGHT] = sp_ph_player_2_right;
 sprite[UP] = sp_ph_player_2_left;
