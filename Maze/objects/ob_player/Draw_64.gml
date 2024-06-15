@@ -2,7 +2,7 @@
 
 //draw teal rectangle over top of screen
 draw_set_colour(c_teal)
-draw_rectangle(0, 0, room_width, 32, false)
+draw_rectangle(0, 0, view_get_wport(0), 32, false)
 
 //health indicator display
 
@@ -19,6 +19,6 @@ for(var i = 0; i < player_health; i++) //displays 4 red hearts in front of the b
 draw_set_colour(c_white) //anything drawn after this will be in white
 
 //text to show score counter
-global.coin_score = coins
-coin_count_string = string(global.coin_score)
-draw_text(sprite_get_width(sp_heart)*4.5, 5.5, "Score: " + coin_count_string)
+global.coin_score = coins    //creates a global variable that is equal to the coins variable
+coin_count_string = string(global.coin_score) //creates a string that stores the global coin score variable
+draw_text(sprite_get_width(sp_heart)*4.5, 5.5, "Score: " + coin_count_string) //displays "Score" and the coin count string as text after the health hearts
