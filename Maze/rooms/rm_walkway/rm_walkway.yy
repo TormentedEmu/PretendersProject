@@ -1,7 +1,7 @@
 {
   "$GMRoom":"",
   "%Name":"rm_walkway",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/rm_walkway/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,

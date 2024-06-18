@@ -1,8 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+// V
+// If the player collides with the boss, Restart the room, reset the player position and health
 
-room_restart();
-x = 528;
-y = 1454;
-
-player_health = 5;
+player_death_reset(global.room_start_x, global.room_start_y);

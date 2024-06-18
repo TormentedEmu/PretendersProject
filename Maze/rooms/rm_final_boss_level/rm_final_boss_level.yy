@@ -1,7 +1,7 @@
 {
   "$GMRoom":"",
   "%Name":"rm_final_boss_level",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/rm_final_boss_level/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,

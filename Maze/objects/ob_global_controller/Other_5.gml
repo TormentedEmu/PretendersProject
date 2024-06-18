@@ -4,7 +4,7 @@
 if (room == Room4) 
 { 
 	// Stop the looping sound
-    audio_stop_sound(snd_room); 
+    //audio_stop_sound(snd_room); 
 	// Destroy the controller object
-    instance_destroy(); 
+    //instance_destroy(); 
 }

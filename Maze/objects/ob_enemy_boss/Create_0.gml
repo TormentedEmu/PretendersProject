@@ -1,4 +1,6 @@
-//Create event for enemy shooter
+// V
+
+//Create event for Boss enemy shooter type
 
 move_speed_shooter = 4;
 horizontal_shooter = 0;
