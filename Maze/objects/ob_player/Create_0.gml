@@ -16,10 +16,10 @@ coins = 0;
 player_health = 4
 max_health = 4
 
-sprite[RIGHT] = sp_ph_player_2_right;
-sprite[UP] = sp_ph_player_2_left;
-sprite[LEFT] = sp_ph_player_2_left;
-sprite[DOWN] = sp_ph_player_2_right;
+sprite[RIGHT] = sp_player_right;
+sprite[UP] = sp_player_up;
+sprite[LEFT] = sp_player_left;
+sprite[DOWN] = sp_player_down;
 
 face = DOWN;
 
