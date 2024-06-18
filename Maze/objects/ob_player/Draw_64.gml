@@ -21,4 +21,4 @@ draw_set_colour(c_white) //anything drawn after this will be in white
 //text to show score counter
 global.coin_score = coins    //creates a global variable that is equal to the coins variable
 coin_count_string = string(global.coin_score) //creates a string that stores the global coin score variable
-draw_text(sprite_get_width(sp_heart)*4.5, 5.5, "Score: " + coin_count_string) //displays "Score" and the coin count string as text after the health hearts
+draw_text(sprite_get_width(sp_heart)*5.5, 5.5, "Score: " + coin_count_string) //displays "Score" and the coin count string as text after the health hearts

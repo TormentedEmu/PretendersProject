@@ -5,4 +5,4 @@ room_restart();
 x = 528;
 y = 1454;
 
-player_health = 4;
+player_health = 5;

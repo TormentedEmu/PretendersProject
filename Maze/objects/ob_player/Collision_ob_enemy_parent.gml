@@ -8,7 +8,7 @@ effect_create_depth(depth-1, ef_explosion, x, y, 1, c_red)
 if(player_health = 0) //If Player health reaches zero, the current level will restart
 {
 	room_restart()
-	player_health = 4;
+	player_health = 5;
 	coins = 0;
 }
 

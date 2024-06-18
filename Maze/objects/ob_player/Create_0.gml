@@ -13,8 +13,8 @@ coins = 0;
 
 // built in variables
 
-player_health = 4
-max_health = 4
+player_health = 5
+max_health = 5
 
 sprite[RIGHT] = sp_player_right;
 sprite[UP] = sp_player_up;
