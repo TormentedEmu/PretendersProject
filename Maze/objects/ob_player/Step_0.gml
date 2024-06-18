@@ -14,35 +14,14 @@ y_speed = (key_down - key_up) * move_speed;
 mask_index = sprite[DOWN];
 
 // Correct our facing sprite based on the direction we are moving
-if (y_speed == 0)
+if (x_speed > 0)
 {
-	if (x_speed > 0)
-	{
-		face = RIGHT;
-	}
-	else if (x_speed < 0)
-	{
-		face = LEFT;
-	}
+	face = RIGHT;
 }
-
-if (x_speed > 0 && face == LEFT) { face = RIGHT; }
-if (x_speed < 0 && face == RIGHT) { face = LEFT; }
-
-if (x_speed == 0)
+else if (x_speed < 0)
 {
-	if (y_speed > 0)
-	{
-		face = DOWN;
-	}
-	else if (y_speed < 0)
-	{
-		face = UP;
-	}
+	face = LEFT;
 }
-if (y_speed > 0 && face == UP) { face = DOWN; }
-if (y_speed < 0 && face == DOWN) { face = UP; }
-
 
 if (x_speed == 0 && y_speed == 0)
 {
