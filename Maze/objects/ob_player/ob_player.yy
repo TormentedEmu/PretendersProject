@@ -12,6 +12,7 @@
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"ob_boss_shot_bullet","path":"objects/ob_boss_shot_bullet/ob_boss_shot_bullet.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"ob_treasure_chest","path":"objects/ob_treasure_chest/ob_treasure_chest.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"ob_pickup_prawn","path":"objects/ob_pickup_prawn/ob_pickup_prawn.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"ob_gem","path":"objects/ob_gem/ob_gem.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"ob_player",
