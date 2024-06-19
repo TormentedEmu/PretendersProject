@@ -72,6 +72,8 @@
     {"name":"inst_72571E6F","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_5A218F0F","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_3E3316B5","path":"rooms/Room2/Room2.yy",},
+    {"name":"inst_692791E6","path":"rooms/Room2/Room2.yy",},
+    {"name":"inst_29DFFEF6","path":"rooms/Room2/Room2.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -157,6 +159,8 @@
         {"$GMRInstance":"","%Name":"inst_1B619956","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1B619956","objectId":{"name":"ob_enemy_shot","path":"objects/ob_enemy_shot/ob_enemy_shot.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":90.0,"scaleX":1.0,"scaleY":1.0,"x":1219.0,"y":448.0,},
         {"$GMRInstance":"","%Name":"inst_1D7E1BEE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1D7E1BEE","objectId":{"name":"ob_treasure_chest","path":"objects/ob_treasure_chest/ob_treasure_chest.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":672.0,"y":640.0,},
         {"$GMRInstance":"","%Name":"inst_4CBD846E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4CBD846E","objectId":{"name":"ob_treasure_chest","path":"objects/ob_treasure_chest/ob_treasure_chest.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.0,"x":1280.0,"y":704.0,},
+        {"$GMRInstance":"","%Name":"inst_692791E6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_692791E6","objectId":{"name":"ob_pickup_prawn","path":"objects/ob_pickup_prawn/ob_pickup_prawn.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":956.0,"y":706.0,},
+        {"$GMRInstance":"","%Name":"inst_29DFFEF6","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_29DFFEF6","objectId":{"name":"ob_pickup_prawn","path":"objects/ob_pickup_prawn/ob_pickup_prawn.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":640.0,"y":447.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Tiles_Plants_Corals","depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_Plants_Corals","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":12,"SerialiseWidth":22,"TileCompressedData":[
           -4,-2147483648,1,51,-5,-2147483648,6,25,26,23,-2147483648,-2147483648,73,-5,-2147483648,1,24,-7,-2147483648,

@@ -20,6 +20,7 @@
     {"name":"inst_5D0459AA","path":"rooms/rm_final_boss_level/rm_final_boss_level.yy",},
     {"name":"inst_160BDB93","path":"rooms/rm_final_boss_level/rm_final_boss_level.yy",},
     {"name":"inst_426C883","path":"rooms/rm_final_boss_level/rm_final_boss_level.yy",},
+    {"name":"inst_67F0C403","path":"rooms/rm_final_boss_level/rm_final_boss_level.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -52,6 +53,7 @@
       ],"resourceType":"GMREffectLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"","%Name":"inst_426C883","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_426C883","objectId":{"name":"ob_enemy_boss","path":"objects/ob_enemy_boss/ob_enemy_boss.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":512.0,"y":466.0,},
+        {"$GMRInstance":"","%Name":"inst_67F0C403","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_67F0C403","objectId":{"name":"ob_pickup_prawn","path":"objects/ob_pickup_prawn/ob_pickup_prawn.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":176.0,"y":838.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Tiles_Background","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_Background","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":24,"SerialiseWidth":16,"TileCompressedData":[
           -6,45,4,44,45,45,46,-12,45,4,44,45,45,46,-12,45,4,44,45,45,46,-12,45,4,44,45,45,46,-8,45,1,23,-3,24,
