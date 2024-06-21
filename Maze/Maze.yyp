@@ -57,6 +57,7 @@
     {"id":{"name":"ob_pickup_prawn","path":"objects/ob_pickup_prawn/ob_pickup_prawn.yy",},},
     {"id":{"name":"ob_player","path":"objects/ob_player/ob_player.yy",},},
     {"id":{"name":"ob_treasure_chest","path":"objects/ob_treasure_chest/ob_treasure_chest.yy",},},
+    {"id":{"name":"ob_tut_text","path":"objects/ob_tut_text/ob_tut_text.yy",},},
     {"id":{"name":"ob_wall_parent","path":"objects/ob_wall_parent/ob_wall_parent.yy",},},
     {"id":{"name":"rm_end_level_high","path":"rooms/rm_end_level_high/rm_end_level_high.yy",},},
     {"id":{"name":"rm_end_level_low","path":"rooms/rm_end_level_low/rm_end_level_low.yy",},},

@@ -13,6 +13,7 @@
     {"name":"inst_626F393A","path":"rooms/rm_walkway/rm_walkway.yy",},
     {"name":"inst_54AA6BD4","path":"rooms/rm_walkway/rm_walkway.yy",},
     {"name":"inst_6A77ABE1","path":"rooms/rm_walkway/rm_walkway.yy",},
+    {"name":"inst_4E5F7E0F","path":"rooms/rm_walkway/rm_walkway.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -37,7 +38,9 @@
         {"name":"g_RipplesAmplitude","type":0,"value":"0.075",},
         {"name":"g_RipplesRadius","type":0,"value":"0",},
       ],"resourceType":"GMREffectLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-    {"$GMRInstanceLayer":"","%Name":"Instances","depth":300,"effectEnabled":true,"effectType":null,"gridX":64,"gridY":64,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
+    {"$GMRInstanceLayer":"","%Name":"Instances","depth":300,"effectEnabled":true,"effectType":null,"gridX":64,"gridY":64,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"","%Name":"inst_4E5F7E0F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4E5F7E0F","objectId":{"name":"ob_tut_text","path":"objects/ob_tut_text/ob_tut_text.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":320.0,"y":448.0,},
+      ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Tiles_Background","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_Background","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":12,"SerialiseWidth":30,"TileCompressedData":[
           2,26,44,-3,45,1,46,-25,26,1,44,-3,45,1,46,-25,26,1,44,-3,45,1,46,-25,26,1,44,-3,45,1,107,-24,24,2,26,
           44,-5,45,-2,68,-5,47,3,45,68,68,-13,45,2,26,44,-5,45,6,47,68,68,47,45,45,-3,68,1,47,-13,45,2,26,65,-28,
