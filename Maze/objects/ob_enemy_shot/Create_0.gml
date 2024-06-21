@@ -1,20 +1,32 @@
 //Create event for enemy shooter - Chivon
 
-// Define a variable `start_direction` and randomly choose either 1 or -1.
-var start_direction = choose(1,-1)
+// Struct to hold shooter properties
+shooter = {
+    direction: 0,
+    speed: move_speed_shooter,
+    horizontal: horizontal_shooter,
+    vertical: vertical_shooter,
+    seconds: 0
+};
 
-// Check if the `image_angle` variable is equal to 0 go with `horizontal_shooter', otherwise 'vertical_shooter'
-if (image_angle) = 0
+// Randomly choose either 1 or -1 for shooter direction.
+shooter.direction = choose(1, -1);
+
+// Check if the `image_angle` rotation equal to 0 then use move horizontally otherwise move vertically
+if (image_angle == 0)
 {
-	horizontal_shooter = start_direction*move_speed_shooter
+	shooter.horizontal = shooter.direction * shooter.speed;
+	shooter.vertical = 0;
 }
 else
 {
-	vertical_shooter = start_direction*move_speed_shooter
+	shooter.horizontal = 0;
+	shooter.vertical = shooter.direction * shooter.speed;
+
 }
 
-// Define a variable `seconds` and assign it a random value as below.
-var seconds = random_range(4,8)
+// Define the value of `seconds` and assign it a random value as below.
+shooter.seconds = random_range(4,8)
 
-//Setting alarm 0. `seconds` is in minutes, we multiply it by 60 to convert it to seconds.
-alarm_set(0,seconds * 60)
+//Setting the timing to `seconds`, multiply it by 60 to convert it to seconds.
+alarm_set(0,shooter.seconds * 60)
